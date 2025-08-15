@@ -3,7 +3,7 @@
 // @unocss-include
 
 export default {
-  title: 'NuCommerce',
+  title: 'Ocevera',
   description:
     'Vue Designer Nuxt Tailwind CSS / Nuxt UI - Quick start template',
   logo: 'i-fluent-emoji:shopping-bags',

@@ -6,7 +6,7 @@ export default [
     description:
       'A fresh and powerful fragrance with notes of bergamot, pepper, and amberwood. Perfect for the confident man.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070981/',
+    image: '/images/MEN 1.jpg',
     rating: { rate: 9.2, count: 320 },
     badge: 'Best Seller',
     shipping: 'Free Shipping',
@@ -18,7 +18,7 @@ export default [
     description:
       'A woody aromatic fragrance with citrus, sandalwood, and cedar notes. Elegant and timeless.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070982/',
+    image: '/images/MEN 2.jpg',
     rating: { rate: 9.0, count: 280 },
     badge: '',
     shipping: 'Free Shipping',
@@ -30,7 +30,7 @@ export default [
     description:
       'A sophisticated aquatic fragrance with bergamot, patchouli, and incense notes.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070983/',
+    image: '/images/MEN 3.jpg',
     rating: { rate: 8.8, count: 450 },
     badge: '',
     shipping: '',
@@ -42,7 +42,7 @@ export default [
     description:
       'Spicy cardamom blends with cedarwood and coumarin for a sensual night-time scent.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070984/',
+    image: '/images/MEN 4.jpg',
     rating: { rate: 8.7, count: 390 },
     badge: 'Low Stock',
     shipping: '',
@@ -54,7 +54,7 @@ export default [
     description:
       'A bold feminine fragrance with orange, jasmine, and rose, balanced by patchouli and vetiver.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070985/',
+    image: '/images/woman1.jpg',
     rating: { rate: 9.5, count: 510 },
     badge: 'Top Rated',
     shipping: 'Free Shipping',
@@ -66,7 +66,7 @@ export default [
     description:
       'Sweet and floral with iris, praline, and vanilla — a modern classic for women.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070986/',
+    image: '/images/woman2.jpg',
     rating: { rate: 9.1, count: 420 },
     badge: '',
     shipping: 'Free Shipping',
@@ -78,7 +78,7 @@ export default [
     description:
       'A rich white floral fragrance with jasmine, tuberose, and Rangoon creeper.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070987/',
+    image: '/images/woman3.jpg',
     rating: { rate: 8.9, count: 380 },
     badge: '',
     shipping: '',
@@ -90,7 +90,7 @@ export default [
     description:
       'Playful and fresh with notes of wild strawberry, violet leaves, and jasmine.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070988/',
+    image: '/images/woman4.jpg',
     rating: { rate: 8.6, count: 350 },
     badge: '',
     shipping: '',
@@ -102,7 +102,7 @@ export default [
     description:
       'Exotic and rich, blending rare oud wood with cardamom, sandalwood, and tonka bean.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070989/',
+    image: '/images/MEN 5.jpg',
     rating: { rate: 9.4, count: 210 },
     badge: 'Luxury',
     shipping: 'Free Shipping',
@@ -114,7 +114,7 @@ export default [
     description:
       'Warm and spicy with blood mandarin, cinnamon, and leather notes — bold and masculine.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070990/',
+    image: '/images/MEN 6.jpg',
     rating: { rate: 8.7, count: 500 },
     badge: 'Popular',
     shipping: '',
@@ -126,7 +126,7 @@ export default [
     description:
       'Fresh mint, green apple, and vanilla create a vibrant and passionate men’s fragrance.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070991/',
+    image: '/images/MEN 7.jpg',
     rating: { rate: 8.9, count: 370 },
     badge: '',
     shipping: '',
@@ -138,7 +138,7 @@ export default [
     description:
       'Iconic and powerful with pineapple, birch, and oakmoss — a statement fragrance for men.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070992/',
+    image: '/images/MEN 8.jpg',
     rating: { rate: 9.7, count: 600 },
     badge: 'Premium',
     shipping: 'Free Shipping',
@@ -150,7 +150,7 @@ export default [
     description:
       'Mint, lavender, and vanilla combine in this iconic masculine fragrance.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070993/',
+    image: '/images/MEN 9.jpg',
     rating: { rate: 8.8, count: 460 },
     badge: '',
     shipping: '',
@@ -162,7 +162,7 @@ export default [
     description:
       'Bright and floral with orange blossom, tuberose, and vanilla — a scent for the curious soul.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070994/',
+    image: '/images/woman5.jpg',
     rating: { rate: 9.0, count: 310 },
     badge: '',
     shipping: 'Free Shipping',
@@ -174,7 +174,7 @@ export default [
     description:
       'A seductive blend of coffee, vanilla, and white flowers for the modern woman.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070995/',
+    image: '/images/woman6.jpg',
     rating: { rate: 9.3, count: 550 },
     badge: 'Hot Item',
     shipping: '',
@@ -186,7 +186,7 @@ export default [
     description:
       'Woody and aromatic with juniper berries, lemon, and sandalwood for a free-spirited vibe.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070996/',
+    image: '/images/woman7.jpg',
     rating: { rate: 8.9, count: 260 },
     badge: '',
     shipping: 'Free Shipping',
@@ -198,7 +198,7 @@ export default [
     description:
       'A floral and fruity scent with peony, red apple, and suede — soft yet confident.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070997/',
+    image: '/images/woman8.jpg',
     rating: { rate: 8.7, count: 230 },
     badge: '',
     shipping: '',
@@ -210,7 +210,7 @@ export default [
     description:
       'Elegant with orange blossom, jasmine, and vetiver — a daringly feminine fragrance.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070998/',
+    image: '/images/woman9.jpg',
     rating: { rate: 9.1, count: 410 },
     badge: '',
     shipping: 'Free Shipping',
@@ -222,7 +222,7 @@ export default [
     description:
       'Earthy and citrusy with orange, pepper, and vetiver for the grounded gentleman.',
     category: 'men',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1070999/',
+    image: '/images/MEN 10.jpg',
     rating: { rate: 9.0, count: 390 },
     badge: '',
     shipping: '',
@@ -234,7 +234,7 @@ export default [
     description:
       'Mystical and radiant with jasmine, cashmere wood, and amber.',
     category: 'women',
-    image: 'https://www.pexels.com/photo/clear-glass-perfume-bottle-1071000/',
+    image: '/images/woman10.jpg',
     rating: { rate: 9.2, count: 470 },
     badge: 'Get 10% OFF^',
     shipping: '',

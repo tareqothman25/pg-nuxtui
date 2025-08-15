@@ -1,7 +1,7 @@
 export default defineAppConfig({
   ui: {
     gray: 'neutral',
-    primary: 'pp',
+    primary: 'black',
     button: {
       rounded: 'rounded-xl',
     },
